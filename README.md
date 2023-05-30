@@ -4,7 +4,7 @@
 📚 Formado pelo Instituto Federal da Bahia (IFBA)<br/>
 🧑‍💻 Trainee na TITAN - Empresa Júnior de Engenharia da Computação<br/>
 
-🚀 Amante das tecnologias, em busca de novas experiências e novos desafios, almejo adquirir novos conhecimentos compondo a equipe da empresa na qual estarei inserido, visando a oportunidade de crescimento pessoal e profissional.
+🚀 Em busca de novas experiências e novos desafios, almejo adquirir novos conhecimentos compondo a equipe da empresa na qual estarei inserido, visando a oportunidade de crescimento pessoal e profissional.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-miranda-4732a316a/)
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/workwith/augustom)
