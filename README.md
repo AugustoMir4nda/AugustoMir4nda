@@ -8,7 +8,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-miranda-4732a316a/)
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/workwith/augustom)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.m1r4nda/)
 
 
 ![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoMir4nda&show_icons=true&theme=highcontrast)
