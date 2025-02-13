@@ -2,7 +2,7 @@
 
 🎓 Graduando em Computação pela Universidade Federal da Bahia (UFBA)<br/>
 📚 Formado pelo Instituto Federal da Bahia (IFBA)<br/>
-🧑‍💻 Trainee na TITAN - Empresa Júnior de Engenharia da Computação<br/>
+🧑‍💻 Dev - Analista de Dados - TITAN - Empresa Júnior de Engenharia da Computação<br/>
 
 🚀 Em busca de novas experiências e novos desafios, almejo adquirir novos conhecimentos compondo a equipe da empresa na qual estarei inserido, visando a oportunidade de crescimento pessoal e profissional.
 
